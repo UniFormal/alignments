@@ -1,0 +1,895 @@
+Verband
+kommutativer Ring
+Halbgruppe
+Gruppe
+Inversenfunktion
+einfach
+Erzeugendensystem
+erzeugt
+erzeugte Untergruppe
+erzeugt
+Euklidischer Ring
+distributiv
+linke Nebenklasse
+rechte Nebenklasse
+konjugiert
+Konjugationshomomorphismus
+Konjugation
+zyklische Gruppe
+Gruppe
+Division
+algebraisch
+linker Nullteiler
+rechter Nullteiler
+Nullteiler
+homogen
+rechts unitär
+Rechtseinheit,rechts neutrales Element
+Matroid
+Austauscheigenschaft
+abgeschlossen
+Ordnung,Elementordnung
+unendliche Ordnung
+Grundmenge
+innere Verknüpfung
+Binar,Magma,Gruppoid,Operativ
+Unabhängigkeitssystem
+unabhängig
+abhängig
+beschränkt
+Polynomgleichung
+Bewertungsfunktion
+Ringoid
+Addition
+Multiplikation
+distributiv
+prim,Primideal
+Quasigruppe
+linke division
+rechte division
+linken Teiler,link teilbar
+linkes Vielfaches
+rechten Teiler,rechts teilbar
+rechtes Vielfaches
+Teiler,teilbar
+Vielfachen
+triviale divisor
+echter Teiler
+Teilring
+Ringerweiterung
+echten Teilring
+echte Ringerweiterung
+algebraisch abgeschlossen
+Klassenzahl
+Wurzel
+Monoid
+Ordnung
+frei
+generierende Menge,Generator
+linksinverses
+rechtsinverses
+inverses
+linkskürzbar,rechtsregulär,linksregulär
+rechtskürzbar
+kürzbar,regulär
+Kommutator
+Permutationsgruppe
+degeneriert,trivial
+Boolesche Algebra
+idempotent
+Abelsche Gruppe,kommutative Gruppe
+Loop
+spezielle lineare Gruppe
+Potenz
+Halbverband
+rechtes Ideal
+linkes Ideal
+Ideal,beidseitiges Ideal
+trivial
+kommutieren
+kommutativ
+Teilkörper
+Erweiterung
+über,Körpererweiterung
+Untergruppe
+Gruppenerweiterung,Obergruppe
+echte Untergruppe
+triviale Untergruppe
+Ring
+erzeugten Unterring
+erzeugt
+assoziativ
+linear
+Polynom
+Monom
+Grad
+Grad
+führender Koeffizient,Leitkoeffizient
+monisch,normiert
+konstant
+quadratisch
+kubisch
+normal
+prim
+Moufang loop
+Moufang Eigenschaft
+komplementär
+Komplement
+links unitär
+links neutrales Element,Linkseinheit
+kommutatives Monoid,Abelsches Monoid
+irreduzibel
+Ring
+additive Struktur
+multiplikative Struktur
+Addition
+additives Inverse
+Multiplikation
+Null
+Eins
+Subtraktion
+Band
+prim,Primideal
+Fischer–Griess Monster,Friendly Giant,Monstergruppe
+allgemeine lineare Gruppe
+unitär
+Einheit,neutrales Element
+Konjugiertheit
+Konjugationsklasse
+Nullstelle
+symmetrische Gruppe
+symmetrische Gruppe der Ordnung
+Halbring
+Körper
+multiplikative Inverse
+Division
+Faktorgruppe,Quotientengruppe
+natürliche Logarithmus
+konvergiert
+Grenzwert,Limes
+konvergent
+gleichmäßig konvergent
+konvergiert
+Grenzwert,Limes
+offene Kugel
+geschlossene Kugel
+stetig
+stetig
+diskrete Metrik
+vollständig
+vollständiger Raum
+holomoprph
+gleichmäßig stetig
+Teilfolge
+Riemannsche Summe
+linke Riemannsche Summe
+rechte Riemannsche Summe
+mittlere Riemannsche Summe
+obere Riemannsche Summe,obere Darbouxsche Summe
+untere Darbouxsche Summe,untere Riemannsche Summe
+differenzierbar
+Ableitung
+differenzierbar auf
+Ableitungsfunktion,Ableitung
+Lagrange Notation
+Leibniz Notation
+Eulers Notation
+Newton Notation
+Riemann integral
+Riemann integrierbar
+dekadische Logarithmus,Zehnerlogarithmus
+induzierte Topologie
+Logarithmus Funktion,Logarithmus
+Basis
+$n$te Ableitung
+erste Ableitung
+zweite Ableitung
+dritte Ableitung
+$n$ mal differenzierbar
+$n$ mal differenzierbar
+$n$ mal stetig differenzierbar
+unendlich differenzierbar,glatt
+Noethersch,terminierend
+Folge
+unendliche Folge
+endliche Folge
+Länge
+Potenzreihe
+Supremum
+Infimum
+supremum
+infimum
+analytisch
+punktweise konvergent
+binäre Logarithmus
+logistische Funktion
+Maximalwert
+Mittlepunktwert
+Wachstum
+standard logistische Funktion
+Limes superior
+Limes inferior
+reelle Funktion,reellwertige Funktion
+unendliche absteigende Kette
+Zerlegung
+Norm,Feinheit
+Taylorreihe
+Mclaurinreihe
+positiv definit
+Metrik,Abstandsfunktion
+Definitheit
+Symmetrie
+Dreiecksungleichung
+metrischen Raum
+Grundmenge
+normalisierte Exponentialfunktion,Softmax
+Basis
+standard Softmax
+obere Schranke
+untere Schranke
+Cauchyfolge
+unendliche Reihe,Reihe
+unendliche formale Summe
+Partialsumme
+Partialsummenfolge
+konvergent
+Gaußsche Ebene,Gaußebene
+isoton,monoton steigend,antiton,ordnungserhaltend,ordnungsumkehrend,mononton fallend,monoton wachsend
+monoton schrumpfend
+strikt monoton wachsend
+strikt monoton fallend
+monoton
+Lipschitz stetig
+Lipschitz Konstante
+Gebiet,komplexes Gebiet
+homotopieäquivalent
+Abschlussoperator,Kuratowski Abschlussoperator
+Erhaltung nullärer Vereinigung
+Extensivität
+Erhaltung binärer Vereinigungen
+Idempotenz
+Prä Abschlussoperator
+abgeschlossen
+Häufungspunkt
+Zusammenhangskomponente
+konvergiert
+Hausdorff Grenzwert
+Produkttopologie
+finer,stärker,grö"ser
+schwächer,kleiner,gröber
+Hausdorff Topologie
+Hausdorffraum
+diskrete Topologie
+diskreten topologischen Raum
+Klumpentopologie,chaotische Topologie,indiskrete Topologie,triviale Topologie
+indiskreter Raum
+homotop
+Homotopie
+Überdeckung
+Teilüberdeckung
+unzusammenhängend
+zusammenhängend
+Umgebung
+Umgebung
+Umgebungssystem
+lokale Basis
+topologischer Raum
+Grundmenge
+Topologie
+geschlossen,abgeschlossen
+abgeschloffen
+topologische Gruppe
+Rand
+Randpunkt
+Abschluss
+Innere
+stetig
+stetig in
+Basis
+generiert
+Unterraumtopologie,relative-,induzierte-,Teilraumtopologie,Spurtopologie
+kompakt
+Homöomorphismus
+homöomorph
+total unzusammenhängend
+Lebesgue Identität
+Ramanujan 6 10 8 Identität
+Cassini Identität
+Catalan Identität
+Nutzerschnittstelle
+Nutzer
+Universalrechner
+UTM,universelle Turing Machine
+Konstante
+Namen
+Datensprache
+Programmierparadigma
+XXXX XXXX
+XXXX XXXX
+XXXX XXXX
+XXXX XXXX
+XXXX XXXX
+XXXX XXXX
+XXXX XXXX
+elektronisches Dokument
+Dokumentenbetrachters
+rekursiv
+Rekursion
+wechselseitig rekursiv
+rekursiv
+Medien,Medium
+Medieninhalt
+OOP
+Seiteneffekt
+Algorithmus
+arithmetisch/logischen Einheit,ALU
+Hauptprozessor,ZVE,Prozessor,zentrale Verarbeitungseinheit
+Leitwerk,Steuerwerk
+Kennzeichen,Bezeichner,Handle,Identifikator
+Speichergerät
+Kontrollfluss
+Symbol
+Operator
+Sekundarspeicher,externer Speicher
+Betriebsmittel,Systemressource,Ressource
+Compiler,Kompiler,Übersetzer
+Quellsprache
+Zielsprache
+service
+Client Server Architektur,client server model
+Server
+Client
+Klasse
+Datei
+Referenze
+referenziert
+dereferenzieren
+Dictionary,assoziatives Datenfeld
+Schlüssel
+Wert
+Collection,Container
+Information
+zustandsbehaftet
+Zustand
+reine Funktion
+Prozeß
+Dateisystem
+Basisnamen
+Erweiterung
+Schleife
+Rumpf
+aktuelles Verzeichnis
+Kode,Code
+Codierung
+Decodierung
+Verzweigung,bedingte Anweisung
+abstrakter Datentyp,ADT
+Shell
+Kommandozeilenschnittstelle
+Kommandozeile,Befehlszeile
+Kommandozeileninterpreter
+Betriebssystem
+System
+Subsystem
+informationsverarbeitendes System
+Eingabesystem
+Prozessor
+Speichersystem
+Ausgabesystem
+Speichermedium,Datenträger
+speichtern
+Ausdruck
+Endbenutzer
+Variable
+Variablenname
+Kodierung
+Programmcode,Code
+Daten
+eingebettetes System
+Anwendungssoftware
+Anwendungsprogramm,Anwendung,App
+Systemsoftware
+Dashboard
+Interpreter
+REPL,lese evaluiere schreibe Zyklus
+Unterprogramm
+Name
+Parameter
+Rumpf
+Stelligkeit
+ausführende Programm
+Rückgabewert
+zurückgeben
+Funktion
+Prozedur
+Turing vollständig,turingmächtig
+grafische Nutzeroberfläche,grafische Nutzerschnittstelle
+Kommunikationsmedium
+Botschaft
+Sender
+Empfänger
+Programmierung
+Programmierer
+Kommunikation
+Liste
+leere Liste
+Cloud IDE,Web IDE
+Speicher,Hauptspeicher
+hierarchical file system
+Verzeichnis,Ordner
+integrierte Entwicklungsumgebung,IDE
+Rechengerät,Rechner,Computer
+Maschinenbefehlen
+ausführen
+Hardware
+Software
+Programmiersprache
+Inferenzsystem,Kalkül
+alphabetische Variante
+korrekt
+vollst"andig
+Turingmaschine
+Band
+Kopf
+Zustandsregister
+Startzustand
+Aktionstabelle,Programm
+Aktion
+hält
+nichtdeterministische Turingmaschine,nTM
+Alphabet
+Übergangsrelation
+deterministische Turingmaschine,dTM
+Übergangsfunktion
+Bandspezifikation
+akzeptierend,final
+kodiert
+Konfiguration
+aktuelle Zelle
+Konfigurationsübergangsfunktion
+Komplexitätsklasse
+polynomielle Zeit
+exponentielle Zeit
+nichtdeterministisch polynomielle Zeit
+polynomieller Platz
+nichtdeterministisch polynomieller Platz
+NP schwer,NP hart
+NP vollständig
+Entscheidungsproblem
+turing-machine-halts?total
+Lauf,Berechnung
+Laufzeit
+Platz
+hält
+asymptotisch beschränkt
+rekursiv,entscheidbar
+unentscheidbar
+semientscheidbar,recursiv aufzählbar,aufzählbar
+Laufzeit
+Zeitkomplexität
+Platzkomplexität
+Berechungskomplexität,Komplexität
+konstant
+quadratisch
+logarithmisch
+polynomiell
+linear
+exponentiell
+akzeptiert
+entscheidet
+Mantisse
+Primitivwurzel
+Produkt
+Multiplikationsindex,Laufindex
+Endwert,Startwert
+obere Grenze
+Multiplikationsbereich
+Darstellung
+$j$te Ziffer
+Absolutbetrag
+Addition
+Summe
+Subtraktion
+Differenz
+Multiplikation
+Produkt
+Division
+Quotient
+Exponentiation
+Basis
+Potenz
+Exponent
+Wurzel
+Quadratwurzel
+größte gemeinsame Teiler,ggT
+Absolutbetrag
+Addition
+Summe
+Subtraktion
+Differenz
+Multiplikation
+Produkt
+Modulus
+Rest
+Exponentiation
+Basis
+Potenz
+Exponent
+Wurzel
+Quadratwurzel
+kleiner als
+größer als
+kgV,kleinste gemeinsame Vielfache
+ganzzahlige Intervall
+Aufrundung
+Abrundung,ganze Teil,Gaussklammer
+Unendlichkeit
+Fakultät,Faktorielle
+Realteil
+Imaginärteil
+imaginäre Einheit
+Absolutbetrag
+Addition
+Summe
+Subtraktion
+Differenz
+Multiplikation
+Produkt
+Division
+Exponentiation
+Basis
+Potenz
+Exponent
+Wurzel
+Quadratwurzel
+Positionssystem,Stellenwertsystem,polyadisches Zahlensystem
+Grundzahl,Basis
+Ziffer,Zahlzeichen
+Grundzahl,Basis
+Zahl
+Zahlmenge
+Summation
+Summe
+Laufindex,Summationsindex
+Endwert,untere Grenze,Startwert
+obere Grenze
+Summationsbereich
+Nummernsystem
+Nummer
+geometrische Mittel
+argmax,Argument des Maximums,argumentum maximi,arg max
+argmin,argumentum minimi,arg min,Argument des Minimumus
+minimiert
+maximiert
+harmonische Mittel
+division
+Addition
+Summe
+Subtraktion
+Differenz
+Multiplikation
+Produkt
+Modulus
+Rest
+Exponentiation
+Basis
+Potenz
+Exponent
+Wurzel
+Quadratwurzel
+kleiner
+Bruch
+Zähler
+Nenner
+Addition
+Subtraktion
+Multiplikation
+Division
+Exponentiation
+natürlichen Zahlen
+Nachfolgerfunktion
+Null
+positiven natürlichen Zahlen
+Eulersche Zahl
+teilt,Teiler,teilbar
+Vielfaches
+trivialen Teiler
+nichttrivialen Teiler
+irrationale Zahl
+Minimum
+Maximum
+maximum
+minimum
+Extremum
+Addition
+Subtraktion
+Differenz
+Multiplikation
+Division
+Quotienten
+Exponentiation
+Wurzel
+konjugierte
+kongruent modulo
+Modulus,Modul
+Kongruenz
+arithmetische Mittel
+Darstellung
+diskreten Logarithmus
+lexikographische Ordnung
+partielle Funktion
+Argumentbereich
+Definitionsmenge,Definitionsbereich
+Wertebereich
+Anwendung
+Argument
+Wert
+definiert auf
+undefiniert auf
+totale Funktion
+Funktion
+Raum der Funktionen
+Raum der partiellen Funktionen
+total
+symmetrisch
+asymmetrisch
+antisymmetrisch
+Universum
+unscharfe Menge,Fuzzymenge
+Zugehörigkeitsfunktion
+Akzeptanz
+Setoid
+Äquivalenzklasse
+Quotientenmenge,Faktormenge
+Representant
+kanonische Projektion,Quotientenabbildung
+Permutation
+partielle Ordnung
+strikte Ordnung
+geordnete Menge
+Identätsrelation,Diagonale,Identitätsfunktion
+Quasiordnung
+Grundmenge
+quasigeordnete Menge
+rechtstotal,surjektiv
+gerichtete Menge
+Richtung
+disjunkte Vereinigung
+partielle Inverse
+Inverse,Umkehrfunktion
+gerade
+ungerade
+Parität
+$n$ fache Cartesische Product
+$n$ Tupel
+Dimension
+Projektion
+Injektion
+Cartesische Produkt
+Vereinigung
+Vereinigung
+reflexive Erweiterung
+Menge
+Elementbeziehung
+gleich
+Relation
+Relation auf
+Klasse
+eigentliche Klasse
+kleine Klasse
+linkseindeutig,injektiv
+nach oben abgeschlossen
+nach unten abgeschlossen
+bijektiv,eineindeutig
+Bijektion
+Iterierte
+Bild
+Bild
+Urbild
+Funktionsdefinition
+Funktionsmuster
+Funktionsrumpf
+Fixpunkt
+Familie
+leere Menge
+leer
+nichtleer
+minimale,kleinste
+größte,maximale
+Graph
+Ultrafilter
+Teilwort,Teilkette
+echte Teilkette,echtes Teilwort
+Präfix
+echter Präfix
+Suffix
+echter Suffix
+Wohlordnung
+fundierte Menge
+Arität,Stelligkeit
+unär,einstellig
+binär
+tertiär
+finitär
+transitiv
+$n$ dimenionaler Kartesischen Raum
+Vektor
+Filter
+gefilterte Menge
+echt,eigentlich
+gleichmächtih
+Multimenge
+Multiplizität
+disjunkt
+paarweise disjunkt
+Paare
+Paar
+erste Komponente
+zweite Komponente
+relative Komplement,Komplement,Differenz
+symmetrische Differenz
+konverse Relation
+Kuratowski Paar
+Beschränkung
+transitive Hülle,transitiven Abschluß
+transitiv reflexive Hülle,transitiven reflexiven Abschluß
+reflexiv
+irreflexiv,antireflexiv
+Zerlegung,Partition,Klasseneinteilung
+überdeckt
+Rang
+mehrstellige Funktion
+Potenzmenge
+Äquivalenzrelation
+Sprache,formale Sprache
+Alphabet
+endlich
+Kardinalität,Mächtigkeit
+unendlich
+Alphabet
+Symbol,Buchstaben
+Wort,Zeichenkette
+leere Zeichenkette,leere Wort
+endlicher Abschluss,Zeichenketten,Worte,Kleene * Abschluss,Kleenesche Hülle,Sternhülle,Verkettungshülle
+endlicher Abschluss,Kleene + Abschluss
+Verkettung,Konkatenation
+Länge
+verkettbar
+Verkettung
+$n$ fache Verkettung
+multirelationionaler Ausdruck
+Zweiermenge,Paar,Paarmenge
+Teilmenge
+Mengeninklusion
+echte Teilmenge
+Obermenge
+echte Obermenge
+erste Projektion
+zweite Projektion
+Einermenge,einelementige Menge
+Mengensystem
+Grundmenge
+Durchschnitt
+Schnitt
+$p$ Abschluss
+abzählbar
+überabzählbar
+abzählbar unendlich
+kofinal,konfinal
+Parität,Vorzeichen,Signatur,Signum
+totale Ordnung,lineare Ordnung,einfache Ordnung
+total geordnete Menge
+Inversion,Fehlstand
+Gleichung
+linke Seite
+rechte Seite
+Lösen
+Lösung
+Identitätsgleichung,Identität
+bedingte Gleichung
+Wertzuweisung
+Variable
+Wert
+beliebig
+unterspezifiziert
+Unbekannte
+Wertebereich
+gleich
+mathatische Idiome
+mathematische Umgangssprache
+genau dann wenn,gdw.
+Ausdruck
+Operatoranwendung
+Variablenbindung
+gebunden
+frei
+geschlossen
+Struktur
+Komponenten
+annährend gleich
+definitionale Gleichung
+definitionale Äquivalenz
+Definiendum
+Definiens
+stückweise definiert
+Untergraph,Teilgraph
+echter Teilgraph
+Obergraph
+Baum
+Eingangsgrad
+Ausgangsgrad
+zusammenhängend
+zusammenhängend in
+Eckenzahl,Ordnung,Knotenzahl
+Kantenanzahl
+vollständig
+leer
+nichtleer
+kantenlos
+Teilbaum
+Oberbaum
+Pfad
+auf
+verbunden
+Startknoten
+Endknoten
+innere Knoten
+Länge
+Kantengraph
+unabhängig
+stabile Mengen
+$k$-regulär
+kubischer Graph
+Trenner,trennt
+Artikulation
+Brücke
+Teilung
+echt
+Ordnung
+Komponente
+geordneter Baum
+zyklisch
+Zykel,Schleife
+einfach
+Ast
+Vorfahren
+Nachkommen
+directed-edge
+Graph
+Knoten
+ungerichtete Kante
+Quelle,initial
+terminal,Senke
+adjazent
+adjazent
+minimale Länge
+Taillenweite
+maximale Länge
+Umfang
+Knotenbeschriftung
+Kantenbeschriftung
+beschriftet
+isomorph
+Isomorphismus
+Automorphismus
+induzierter Teilgraph
+aufspannt,induziert
+azyklisch,zyklenfrei
+inzident
+Kante bei
+Sehne
+sehnenlos
+aufspannender Teilgraph
+Valenz,Grad
+isoliert
+Minimalgrad
+Maximalgrad
+Durchschnittsgrad
+Wald
+Elternknoten
+Kind
+Blatt
+$A$--$B$-Weg
+kreuzungsfrei
+Höhe
+Höhe
