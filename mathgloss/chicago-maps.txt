@@ -1,5 +1,5 @@
 %column 1 Wikidata
-%column 2 human-friendly name used by ???
+%column 2 human-friendly name used by Lucy Horowitz's notes (student working with Valeria de Paiva), see https://mathgloss.github.io/MathGloss/chicago and https://github.com/lucyhorowitz/MathRepository
 Q1738274 "k-space"
 Q91052291 "local minimum"
 Q1095056 "singular homology group"
