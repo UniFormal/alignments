@@ -1,0 +1,177 @@
+%column 1: human-friendly name
+%column 2: lean=https://leanprover-community.github.io/mathlib_docs/
+%column 3: Wikidata
+"Vector space" lean:algebra/module/basic.html#module Q125977
+"Vector subspace" lean:algebra/module/submodule/basic.html#subspace Q728435
+"Quotient space (linear algebra)" lean:linear_algebra/quotient.html#submodule.has_quotient Q1393796
+"Quotient space (topology)" lean:linear_algebra/quotient.html#submodule.has_quotient Q1139111
+"Direct sum (topology)" lean:algebra/direct_sum/basic.html#direct_sum.is_internal Q5282259
+"Complementary subspaces" lean:linear_algebra/basis.html#submodule.exists_is_compl Q1142861
+"Linear independence" lean:linear_algebra/linear_independent.html#linear_independent Q27670
+"Bases" lean:linear_algebra/basis.html#basis Q4866725
+"Linear map" lean:algebra/module/linear_map.html#linear_map Q207643
+"General linear group" lean:linear_algebra/general_linear_group.html#linear_map.general_linear_group Q524607
+"Dual vector space" lean:linear_algebra/dual.html#module.dual Q752487
+"Dual basis" lean:linear_algebra/dual.html#basis.dual_basis Q2297777
+"Transpose of a linear map" lean:linear_algebra/dual.html#module.dual.transpose Q2858846
+"Multilinear map" lean:linear_algebra/multilinear/basic.html#multilinear_map Q1952404
+"Change of basis" lean:linear_algebra/matrix/basis.html#basis_to_matrix_mul_linear_map_to_matrix_mul_basis_to_matrix Q810255
+"Rank of a matrix" lean:data/matrix/rank.html#matrix.rank Q656784
+"Determinant (mathematics)" lean:linear_algebra/matrix/determinant.html#matrix.det Q178546
+"Invertibility" lean:linear_algebra/matrix/nonsingular_inverse.html#matrix.has_inv Q242188
+"Minimal polynomial (linear algebra)" lean:field_theory/minpoly/basic.html#minpoly Q1163608
+"Minimal polynomial (field theory)" lean:field_theory/minpoly/basic.html#minpoly Q2242730
+"Characteristic polynomial" lean:linear_algebra/matrix/charpoly/basic.html#matrix.charpoly Q849705
+"Cayley-Hamilton theorem" lean:linear_algebra/matrix/charpoly/basic.html#matrix.aeval_self_charpoly Q656772
+"Eigenvalue" lean:linear_algebra/eigenspace/basic.html#module.End.has_eigenvalue Q190524
+"Eigenvector" lean:linear_algebra/eigenspace/basic.html#module.End.has_eigenvector Q190524
+"Schur's lemma" lean:representation_theory/fdRep.html#fdRep.finrank_hom_simple_simple Q1816952
+"Matrix exponential" lean:analysis/normed_space/exponential.html#exp Q1191722
+"Group (mathematics)" lean:algebra/group/defs.html#group Q83478
+"Group morphism" lean:algebra/hom/group.html#monoid_hom Q868169
+"Direct product of groups" lean:algebra/group/prod.html#prod.group Q2725924
+"Subgroup (mathematics)" lean:group_theory/subgroup/basic.html#subgroup Q466109
+"Normal subgroup" lean:group_theory/subgroup/basic.html#subgroup.normal Q743179
+"Quotient group" lean:group_theory/quotient_group.html#quotient_group.quotient.group Q1138961
+"Group action (mathematics)" lean:group_theory/group_action/defs.html#mul_action Q288465
+"Orbit (mathematics)" lean:group_theory/group_action/basic.html#mul_action.orbit Q230664
+"Orbit (group theory)" lean:group_theory/group_action/basic.html#mul_action.orbit Q288465
+"Quotient space (linear algebra)" lean:group_theory/group_action/quotient.html#mul_action.orbit_equiv_quotient_stabilizer Q1393796
+"Quotient space (topology)" lean:group_theory/group_action/quotient.html#mul_action.orbit_equiv_quotient_stabilizer Q1139111
+"Conjugacy classes" lean:algebra/group/conj.html#conj_classes Q1353233
+"Cyclic group" lean:group_theory/specific_groups/cyclic.html#is_cyclic Q245462
+"Signature (mathematics)" lean:group_theory/perm/sign.html#equiv.perm.sign Q298582
+"Signature (topology)" lean:group_theory/perm/sign.html#equiv.perm.sign Q7512811
+"Alternating group" lean:group_theory/specific_groups/alternating.html#alternating_group Q438814
+"General linear group" lean:linear_algebra/general_linear_group.html#linear_map.general_linear_group Q524607
+"Special linear group" lean:linear_algebra/matrix/special_linear_group.html#matrix.special_linear_group Q2140900
+"Orthogonal group" lean:linear_algebra/unitary_group.html#matrix.orthogonal_group Q1783179
+"Unitary group" lean:linear_algebra/unitary_group.html#matrix.unitary_group Q1500617
+"Maschke theorem" lean:representation_theory/maschke.html#monoid_algebra.submodule.exists_is_compl Q656198
+"Ring (mathematics)" lean:algebra/ring/defs.html#ring Q161172
+"Product of rings" lean:algebra/ring/pi.html#pi.ring Q3406712
+"Prime ideals" lean:ring_theory/ideal/basic.html#ideal.is_prime Q863912
+"Chinese remainder theorem" lean:ring_theory/ideal/quotient.html#ideal.quotient_inf_ring_equiv_pi_quotient Q193878
+"Greatest common divisor" lean:algebra/gcd_monoid/basic.html#gcd_monoid.gcd Q131752
+"Least common multiple" lean:algebra/gcd_monoid/basic.html#gcd_monoid.lcm Q102761
+"Principal ideal domain" lean:ring_theory/principal_ideal_domain.html#submodule.is_principal Q1143969
+"Prime numbers" lean:algebra/associated.html#prime Q49008
+"Bézout's identity" lean:ring_theory/principal_ideal_domain.html#exists_gcd_eq_mul_add_mul Q513028
+"Irreducible polynomial" lean:algebra/associated.html#irreducible Q1476663
+"Eisenstein's criterion" lean:ring_theory/eisenstein_criterion.html#polynomial.irreducible_of_eisenstein_criterion Q1057416
+"Multiplicity (mathematics)" lean:data/polynomial/div.html#polynomial.root_multiplicity Q2228257
+"Symmetric polynomials" lean:ring_theory/mv_polynomial/symmetric.html#mv_polynomial.is_symmetric Q930499
+"Fields" lean:algebra/field/defs.html#field Q1201101
+"Characteristic of a ring" lean:algebra/char_p/basic.html#ring_char Q836088
+"Characteristic zero" lean:algebra/char_zero/defs.html#char_zero Q836088
+"Characteristic p" lean:algebra/char_p/basic.html#char_p Q836088
+"Matrix representation" lean:linear_algebra/matrix/bilinear_form.html#bilin_form.to_matrix Q6787889
+"Change of coordinates" lean:linear_algebra/matrix/bilinear_form.html#bilin_form.to_matrix_comp Q11210
+"Quadratic form" lean:linear_algebra/quadratic_form/basic.html#quadratic_form Q736753
+"Adjoint endomorphism" lean:linear_algebra/bilinear_form.html#bilin_form.left_adjoint_of_nondegenerate Q1017106
+"Orthogonal complement" lean:analysis/inner_product_space/orthogonal.html#submodule.orthogonal Q1780921
+"Cauchy-Schwarz inequality" lean:analysis/inner_product_space/basic.html#inner_mul_inner_self_le Q190546
+"Norm (mathematics)" lean:analysis/inner_product_space/basic.html#inner_product_space.core.to_has_norm Q956437
+"Orthonormal bases" lean:analysis/inner_product_space/projection.html#maximal_orthonormal_iff_basis_of_finite_dimensional Q2365325
+"Orthogonal group" lean:linear_algebra/unitary_group.html#matrix.orthogonal_group Q1783179
+"Unitary group" lean:linear_algebra/unitary_group.html#matrix.unitary_group Q1500617
+"Cross product" lean:linear_algebra/cross_product.html#cross_product Q178192
+"Triple product" lean:linear_algebra/cross_product.html#triple_product_eq_det Q36248
+"Affine space (algebraic geometry)" lean:algebra/add_torsor.html#add_torsor Q382698
+"Affine function" lean:linear_algebra/affine_space/affine_map.html#affine_map Q382497
+"Affine subspace" lean:linear_algebra/affine_space/affine_subspace.html#affine_subspace Q382698
+"Barycenter" lean:linear_algebra/affine_space/combination.html#finset.affine_combination Q809690
+"Affine span" lean:linear_algebra/affine_space/affine_subspace.html#affine_span Q382504
+"Extreme point" lean:analysis/convex/extreme.html#set.extreme_points Q1385465
+"Order (mathematics)" lean:data/real/basic.html#real.linear_order Q1820515
+"Order (graph theory)" lean:data/real/basic.html#real.linear_order Q141488
+"Order (group theory)" lean:data/real/basic.html#real.linear_order Q589491
+"Order (ring theory)" lean:data/real/basic.html#real.linear_order Q1431456
+"Convergence (mathematics)" lean:order/filter/basic.html#filter.tendsto Q1211057
+"Limit point" lean:topology/basic.html#map_cluster_pt Q858223
+"Cauchy sequences" lean:topology/uniform_space/cauchy.html#cauchy_seq Q217847
+"Metric structure" lean:topology/metric_space/basic.html#real.metric_space Q630649
+"Bolzano-Weierstrass theorem" lean:topology/sequences.html#tendsto_subseq_of_bounded Q468391
+"Geometric series" lean:analysis/specific_limits/normed.html#tsum_geometric_of_norm_lt_1 Q1306887
+"Alternating series" lean:analysis/specific_limits/normed.html#antitone.tendsto_alternating_series_of_tendsto_zero Q438842
+"Continuity (mathematics)" lean:topology/basic.html#continuous Q5165409
+"Continuity (category theory)" lean:topology/basic.html#continuous Q1322614
+"Continuity (topology)" lean:topology/basic.html#continuous Q170058
+"Continuity (set theory)" lean:topology/basic.html#continuous Q5165476
+"Limits" lean:order/filter/basic.html#filter.tendsto Q246639
+"Intermediate value theorem" lean:topology/algebra/order/intermediate_value.html#intermediate_value_Icc Q245098
+"Differentiable functions" lean:analysis/calculus/deriv/basic.html#has_deriv_at Q783507
+"Rolle's theorem" lean:analysis/calculus/local_extr.html#exists_deriv_eq_zero Q193286
+"Mean value theorem" lean:analysis/calculus/mean_value.html#exists_ratio_deriv_eq_ratio_slope Q189136
+"Leibniz formula" lean:analysis/calculus/deriv/mul.html#deriv_mul Q394747
+"Rational functions" lean:field_theory/ratfunc.html#ratfunc.eval Q41237
+"Logarithms" lean:analysis/special_functions/log/basic.html#real.log Q11197
+"Exponential (category theory)" lean:data/complex/exponential.html#real.exp Q4391173
+"Trigonometric functions" lean:data/complex/exponential.html#real.sin Q93344
+"Hyperbolic trigonometric functions" lean:data/complex/exponential.html#real.sinh Q204034
+"Inverse trigonometric functions" lean:analysis/special_functions/trigonometric/inverse.html#real.arcsin Q674533
+"Riemann sums" lean:analysis/box_integral/basic.html#box_integral.integral_sum Q1156903
+"Change of variable" lean:measure_theory/integral/fund_thm_calculus.html#interval_integral.integral_comp_smul_deriv Q1934165
+"Integration by parts" lean:measure_theory/integral/fund_thm_calculus.html#interval_integral.integral_mul_deriv_eq_deriv_mul Q273328
+"Pointwise convergence" lean:topology/constructions.html#tendsto_pi_nhds Q1778098
+"Uniform convergence" lean:topology/uniform_space/uniform_convergence.html#tendsto_uniformly Q1411887
+"Radius of convergence" lean:analysis/analytic/basic.html#formal_multilinear_series.radius Q1428097
+"Continuity (mathematics)" lean:analysis/analytic/basic.html#has_fpower_series_on_ball.continuous_on Q5165409
+"Continuity (category theory)" lean:analysis/analytic/basic.html#has_fpower_series_on_ball.continuous_on Q1322614
+"Continuity (topology)" lean:analysis/analytic/basic.html#has_fpower_series_on_ball.continuous_on Q170058
+"Continuity (set theory)" lean:analysis/analytic/basic.html#has_fpower_series_on_ball.continuous_on Q5165476
+"Cosine" lean:data/complex/exponential.html#complex.cos Q93344
+"Sine (mathematics)" lean:data/complex/exponential.html#complex.sin Q152415
+"Holomorphic functions" lean:analysis/calculus/fderiv/basic.html#differentiable_on Q207476
+"Maximum principle" lean:analysis/complex/abs_max.html#complex.eventually_eq_of_is_local_max_norm Q1914255
+"Induced topology" lean:topology/order.html#topological_space.induced Q17130880
+"Continuous functions" lean:topology/basic.html#continuous Q170058
+"Homeomorphisms" lean:topology/homeomorph.html#homeomorph Q202906
+"Connectedness (topology)" lean:topology/connected.html#connected_space Q1491995
+"Connectedness (graph theory)" lean:topology/connected.html#connected_space Q230655
+"Connected components" lean:topology/connected.html#connected_component Q230646
+"Path connectedness" lean:topology/path_connected.html#is_path_connected Q1491995
+"Lipschitz functions" lean:topology/metric_space/lipschitz.html#lipschitz_with Q652707
+"Uniformly continuous functions" lean:topology/metric_space/basic.html#metric.uniform_continuous_iff Q741865
+"Heine-Cantor theorem" lean:topology/uniform_space/compact.html#compact_space.uniform_continuous_of_continuous Q765987
+"Contraction mapping theorem" lean:topology/metric_space/contracting.html#contracting_with.exists_fixed_point Q220680
+"Arzela-Ascoli theorem" lean:topology/continuous_function/bounded.html#bounded_continuous_function.arzela_ascoli Q1477053
+"Hilbert projection theorem" lean:analysis/inner_product_space/projection.html#exists_norm_eq_infi_of_complete_convex Q3527215
+"Dual space" lean:analysis/normed_space/dual.html#normed_space.dual.normed_space Q752487
+"Riesz representation theorem" lean:analysis/inner_product_space/dual.html#inner_product_space.to_dual Q1357684
+"Example" lean:analysis/fourier/add_circle.html#fourier_basis Q29864097
+"Lax-Milgram theorem" lean:analysis/inner_product_space/lax_milgram.html#is_coercive.continuous_linear_equiv_of_bilin Q9993851
+"Chain rule (probability)" lean:analysis/calculus/fderiv/comp.html#fderiv.comp Q17004731
+"Mean value theorem" lean:analysis/calculus/mean_value.html#exists_ratio_deriv_eq_ratio_slope Q189136
+"Differentiable functions" lean:analysis/calculus/fderiv/basic.html#differentiable Q783507
+"Local extrema" lean:analysis/calculus/local_extr.html#is_local_min.fderiv_eq_zero Q845060
+"Diffeomorphisms" lean:geometry/manifold/charted_space.html#structomorph Q1058314
+"Inverse function theorem" lean:analysis/calculus/inverse.html#has_strict_deriv_at.to_local_inverse Q931001
+"Implicit function theorem" lean:analysis/calculus/implicit.html#implicit_function_data.implicit_function Q848375
+"Grönwall lemma" lean:analysis/ODE/gronwall.html#norm_le_gronwall_bound_of_norm_deriv_right_le Q510733
+"Sigma-algebras" lean:measure_theory/measurable_space_def.html#measurable_space Q217357
+"Positive measure" lean:measure_theory/measure/measure_space_def.html#measure_theory.measure Q192276
+"Counting measure" lean:measure_theory/measure/measure_space.html#measure_theory.measure.count Q247204
+"Lebesgue measure" lean:measure_theory/measure/measure_space_def.html#measure_theory.measure_space Q827230
+"Product measure" lean:measure_theory/measurable_space.html#measurable_space.pi Q1572094
+"Monotone convergence theorem" lean:measure_theory/integral/lebesgue.html#measure_theory.lintegral_infi_ae Q1153584
+"Fatou's lemma" lean:measure_theory/integral/lebesgue.html#measure_theory.lintegral_liminf_le Q1068118
+"Dominated convergence theorem" lean:measure_theory/integral/bochner.html#measure_theory.tendsto_integral_of_dominated_convergence Q1067156
+"Holder's inequality" lean:measure_theory/integral/mean_inequalities.html#nnreal.lintegral_mul_le_Lp_mul_Lq Q731894
+"Fubini's theorem" lean:measure_theory/constructions/prod/integral.html#measure_theory.integral_prod Q1149022
+"Convolution (mathematics)" lean:analysis/convolution.html#convolution Q210857
+"Riemann-Lebesgue lemma" lean:analysis/fourier/riemann_lebesgue_lemma.html#tendsto_integral_exp_smul_cocompact Q1187640
+"Parseval theorem" lean:analysis/fourier/add_circle.html#tsum_sq_fourier_coeff Q1443036
+"Probability measure" lean:measure_theory/measure/measure_space.html#measure_theory.is_probability_measure Q355020
+"Events" lean:measure_theory/measurable_space_def.html#measurable_set Q1297532
+"Independent events" lean:probability/independence/basic.html#probability_theory.Indep_set Q625303
+"Sigma-algebra" lean:measure_theory/measurable_space_def.html#measurable_space Q217357
+"0-1 law" lean:probability/independence/zero_one.html#probability_theory.measure_zero_or_one_of_measurable_set_limsup_at_top Q14481419
+"Conditional probability" lean:probability/conditional_probability.html#probability_theory.cond Q327069
+"Probability density function" lean:probability/density.html#measure_theory.has_pdf Q207522
+"Independence of random variables" lean:probability/independence/basic.html#probability_theory.Indep_fun Q625303
+"Moments" lean:probability/moments.html#probability_theory.moment Q1451745
+"Convergence in probability" lean:measure_theory/function/convergence_in_measure.html#measure_theory.tendsto_in_measure Q578985
+"Markov inequality" lean:measure_theory/integral/lebesgue.html#measure_theory.mul_meas_ge_le_lintegral Q842436
+"Strong law of large numbers" lean:probability/strong_law.html#probability_theory.strong_law_ae Q207952
+"Lagrange interpolation" lean:linear_algebra/lagrange.html#lagrange.interpolate Q861606

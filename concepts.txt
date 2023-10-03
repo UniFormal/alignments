@@ -1,0 +1,371 @@
+%column 1: human-friendly name
+%column 2: Wikidata id
+"Vector space" Q125977
+"Vector subspace" Q728435
+"Quotient space (linear algebra)" Q1393796
+"Quotient space (topology)" Q1139111
+"Direct sum (topology)" Q5282259
+"Complementary subspaces" Q1142861
+"Linear independence" Q27670
+"Bases" Q4866725
+"Linear map" Q207643
+"General linear group" Q524607
+"Dual vector space" Q752487
+"Dual basis" Q2297777
+"Transpose of a linear map" Q2858846
+"Multilinear map" Q1952404
+"Change of basis" Q810255
+"Rank of a matrix" Q656784
+"Determinant (mathematics)" Q178546
+"Invertibility" Q242188
+"Minimal polynomial (linear algebra)" Q1163608
+"Minimal polynomial (field theory)" Q2242730
+"Characteristic polynomial" Q849705
+"Cayley-Hamilton theorem" Q656772
+"Eigenvalue" Q190524
+"Eigenvector" Q190524
+"Schur's lemma" Q1816952
+"Matrix exponential" Q1191722
+"Group (mathematics)" Q83478
+"Group morphism" Q868169
+"Direct product of groups" Q2725924
+"Subgroup (mathematics)" Q466109
+"Normal subgroup" Q743179
+"Quotient group" Q1138961
+"Group action (mathematics)" Q288465
+"Orbit (mathematics)" Q230664
+"Orbit (group theory)" Q288465
+"Quotient space (linear algebra)" Q1393796
+"Quotient space (topology)" Q1139111
+"Conjugacy classes" Q1353233
+"Cyclic group" Q245462
+"Signature (mathematics)" Q298582
+"Signature (topology)" Q7512811
+"Alternating group" Q438814
+"General linear group" Q524607
+"Special linear group" Q2140900
+"Orthogonal group" Q1783179
+"Unitary group" Q1500617
+"Maschke theorem" Q656198
+"Ring (mathematics)" Q161172
+"Product of rings" Q3406712
+"Prime ideals" Q863912
+"Chinese remainder theorem" Q193878
+"Greatest common divisor" Q131752
+"Least common multiple" Q102761
+"Principal ideal domain" Q1143969
+"Prime numbers" Q49008
+"Bézout's identity" Q513028
+"Irreducible polynomial" Q1476663
+"Eisenstein's criterion" Q1057416
+"Multiplicity (mathematics)" Q2228257
+"Symmetric polynomials" Q930499
+"Fields" Q1201101
+"Characteristic of a ring" Q836088
+"Characteristic zero" Q836088
+"Characteristic p" Q836088
+"Matrix representation" Q6787889
+"Change of coordinates" Q11210
+"Quadratic form" Q736753
+"Adjoint endomorphism" Q1017106
+"Orthogonal complement" Q1780921
+"Cauchy-Schwarz inequality" Q190546
+"Norm (mathematics)" Q956437
+"Orthonormal bases" Q2365325
+"Orthogonal group" Q1783179
+"Unitary group" Q1500617
+"Cross product" Q178192
+"Triple product" Q36248
+"Affine space (algebraic geometry)" Q382698
+"Affine function" Q382497
+"Affine subspace" Q382698
+"Barycenter" Q809690
+"Affine span" Q382504
+"Extreme point" Q1385465
+"Order (mathematics)" Q1820515
+"Order (graph theory)" Q141488
+"Order (group theory)" Q589491
+"Order (ring theory)" Q1431456
+"Convergence (mathematics)" Q1211057
+"Limit point" Q858223
+"Cauchy sequences" Q217847
+"Metric structure" Q630649
+"Bolzano-Weierstrass theorem" Q468391
+"Geometric series" Q1306887
+"Alternating series" Q438842
+"Continuity (mathematics)" Q5165409
+"Continuity (category theory)" Q1322614
+"Continuity (topology)" Q170058
+"Continuity (set theory)" Q5165476
+"Limits" Q246639
+"Intermediate value theorem" Q245098
+"Differentiable functions" Q783507
+"Rolle's theorem" Q193286
+"Mean value theorem" Q189136
+"Leibniz formula" Q394747
+"Rational functions" Q41237
+"Logarithms" Q11197
+"Exponential (category theory)" Q4391173
+"Trigonometric functions" Q93344
+"Hyperbolic trigonometric functions" Q204034
+"Inverse trigonometric functions" Q674533
+"Riemann sums" Q1156903
+"Change of variable" Q1934165
+"Integration by parts" Q273328
+"Pointwise convergence" Q1778098
+"Uniform convergence" Q1411887
+"Radius of convergence" Q1428097
+"Continuity (mathematics)" Q5165409
+"Continuity (category theory)" Q1322614
+"Continuity (topology)" Q170058
+"Continuity (set theory)" Q5165476
+"Cosine" Q93344
+"Sine (mathematics)" Q152415
+"Holomorphic functions" Q207476
+"Maximum principle" Q1914255
+"Induced topology" Q17130880
+"Continuous functions" Q170058
+"Homeomorphisms" Q202906
+"Connectedness (topology)" Q1491995
+"Connectedness (graph theory)" Q230655
+"Connected components" Q230646
+"Path connectedness" Q1491995
+"Lipschitz functions" Q652707
+"Uniformly continuous functions" Q741865
+"Heine-Cantor theorem" Q765987
+"Contraction mapping theorem" Q220680
+"Arzela-Ascoli theorem" Q1477053
+"Hilbert projection theorem" Q3527215
+"Dual space" Q752487
+"Riesz representation theorem" Q1357684
+"Example" Q29864097
+"Lax-Milgram theorem" Q9993851
+"Chain rule (probability)" Q17004731
+"Mean value theorem" Q189136
+"Differentiable functions" Q783507
+"Local extrema" Q845060
+"Diffeomorphisms" Q1058314
+"Inverse function theorem" Q931001
+"Implicit function theorem" Q848375
+"Grönwall lemma" Q510733
+"Sigma-algebras" Q217357
+"Positive measure" Q192276
+"Counting measure" Q247204
+"Lebesgue measure" Q827230
+"Product measure" Q1572094
+"Monotone convergence theorem" Q1153584
+"Fatou's lemma" Q1068118
+"Dominated convergence theorem" Q1067156
+"Holder's inequality" Q731894
+"Fubini's theorem" Q1149022
+"Convolution (mathematics)" Q210857
+"Riemann-Lebesgue lemma" Q1187640
+"Parseval theorem" Q1443036
+"Probability measure" Q355020
+"Events" Q1297532
+"Independent events" Q625303
+"Sigma-algebra" Q217357
+"0-1 law" Q14481419
+"Conditional probability" Q327069
+"Probability density function" Q207522
+"Independence of random variables" Q625303
+"Moments" Q1451745
+"Convergence in probability" Q578985
+"Markov inequality" Q842436
+"Strong law of large numbers" Q207952
+"Lagrange interpolation" Q861606
+"Orthogonality" Q215067
+"Special linear group" Q2140900
+"Elementary row operations" Q609566
+"Gaussian elimination" Q2658
+"Diagonalization" Q1208191
+"Jordan normal form" Q838495
+"Irreducible representation" Q13690522
+"Special orthogonal group" Q1783179
+"Special unitary group" Q684363
+Convolution (mathematics) Q210857
+"Algebra over a commutative ring" Q1000660
+"Newton's identities" Q1749812
+"Partial fraction decomposition" Q431617
+"Sylvester's law of inertia" Q1752621
+"Special orthogonal group" Q1783179
+"Special unitary group" Q684363
+"Polar decomposition" Q2101158
+"Affine property" Q382698
+"Inscribed angle theorem" Q915985
+"Regular polygons" Q714886
+Focus (mathematics) Q3568
+Eccentricity (mathematics) Q104486
+Eccentricity (graph theory) Q2742711
+"Comparison test" Q17129258
+"Absolute convergence" Q332465
+"Taylor series expansion" Q131187
+"Improper integrals" Q464118
+"Absolute convergence" Q332465
+"Conditional convergence" Q2425336
+"Normal convergence" Q1512559
+"Convex function" Q319913
+"Antiderivative" Q114326
+"Cauchy-Riemann equations" Q622741
+"Contour integral" Q856103
+"Antiderivative" Q114326
+"Winding number" Q576728
+"Laurent series" Q425432
+"Meromorphic function" Q217616
+"Residue theorem" Q830513
+"Equivalent norms" Q956437
+"Hilbert basis" Q5761206
+"Directional derivative" Q383851
+"Partial derivative" Q186475
+"Jacobian matrix" Q506041
+"Gradient vector" Q173582
+"Hessian matrix" Q620495
+"Taylor's theorem" Q1137206
+"Linearisation theorem" Q211981
+"Tangent space" Q909601
+Gradient (calculus) Q173582
+"Line integral" Q467699
+"Curve length" Q670036
+"Lagrange multipliers" Q598870
+"Change of variables" Q1934165
+"Riemann-Lebesgue lemma" Q1187640
+"Dirichlet theorem" Q1217467
+"Fejer theorem" Q571154
+"Fourier transform" Q6520159
+"Law of total probability" Q1989192
+"Uniform law" Q16862633
+"Exponential law" Q582659
+Characteristic function (probability) Q822139
+"Weak law of large numbers" Q207952
+"Central limit theorem" Q190391
+"Partitions of unity" Q191690
+Distribution (mathematics) Q865811
+Distribution (differential geometry) Q564835
+Distribution (probability) Q200726
+"Dirac measure" Q1227387
+"Cauchy principal value" Q769374
+"Support of a distribution" Q1136376
+"Gaussian function" Q1054475
+Convolution (mathematics Q210857
+"Tempered distribution" Q3030799
+"Periodic function" Q184743
+"Dirac comb" Q385599
+"Fourier transform" Q6520159
+"Inverse Fourier transform" Q3984053
+"Fourier-Laplace transform" Q199691
+"Laplace equations" Q339444
+Conditioning (probability) Q5159291
+"LU decomposition" Q833089
+"Singular value decomposition" Q420904
+"Brute force method" Q9299950
+"Bisection method" Q866300
+"Rate of convergence" Q1783502
+"Rectangle method" Q1156903
+"Monte-Carlo method" Q232207
+"Rate of convergence" Q1783502
+"Cauchy's problem" Q1412436
+"Consistency" Q1319773
+Stability (mathematics) Q1756677
+Stability (probability) Q7595717
+Convergence (mathematics) Q1211057
+Order (mathematics) Q1820515
+Order (graph theory) Q141488
+Order (group theory) Q589491
+Order (ring theory) Q1431456
+"Discrete Fourier transform" Q2878
+"Fast Fourier transform: Q623950Diagonalization" Q1208191
+"Jordan normal form" Q838495
+"Irreducible representation" Q13690522
+"Special orthogonal group" Q1783179
+"Special unitary group" Q684363
+Convolution (mathematics) Q210857
+"Algebra over a commutative ring" Q1000660
+"Newton's identities" Q1749812
+"Partial fraction decomposition" Q431617
+"Sylvester's law of inertia" Q1752621
+"Special orthogonal group" Q1783179
+"Special unitary group" Q684363
+"Polar decomposition" Q2101158
+"Affine property" Q382698
+"Inscribed angle theorem" Q915985
+"Regular polygons" Q714886
+Focus (mathematics) Q3568
+Eccentricity (mathematics) Q104486
+Eccentricity (graph theory) Q2742711
+"Comparison test" Q17129258
+"Absolute convergence" Q332465
+"Taylor series expansion" Q131187
+"Improper integrals" Q464118
+"Absolute convergence" Q332465
+"Conditional convergence" Q2425336
+"Normal convergence" Q1512559
+"Convex function" Q319913
+"Antiderivative" Q114326
+"Cauchy-Riemann equations" Q622741
+"Contour integral" Q856103
+"Antiderivative" Q114326
+"Winding number" Q576728
+"Laurent series" Q425432
+"Meromorphic function" Q217616
+"Residue theorem" Q830513
+"Equivalent norms" Q956437
+"Hilbert basis" Q5761206
+"Directional derivative" Q383851
+"Partial derivative" Q186475
+"Jacobian matrix" Q506041
+"Gradient vector" Q173582
+"Hessian matrix" Q620495
+"Taylor's theorem" Q1137206
+"Linearisation theorem" Q211981
+"Tangent space" Q909601
+Gradient (calculus) Q173582
+"Line integral" Q467699
+"Curve length" Q670036
+"Lagrange multipliers" Q598870
+"Change of variables" Q1934165
+"Riemann-Lebesgue lemma" Q1187640
+"Dirichlet theorem" Q1217467
+"Fejer theorem" Q571154
+"Fourier transform" Q6520159
+"Law of total probability" Q1989192
+"Uniform law" Q16862633
+"Exponential law" Q582659
+Characteristic function (probability) Q822139
+"Weak law of large numbers" Q207952
+"Central limit theorem" Q190391
+"Partitions of unity" Q191690
+Distribution (mathematics) Q865811
+Distribution (differential geometry) Q564835
+Distribution (probability) Q200726
+"Dirac measure" Q1227387
+"Cauchy principal value" Q769374
+"Support of a distribution" Q1136376
+"Gaussian function" Q1054475
+Convolution (mathematics) Q210857
+"Tempered distribution" Q3030799
+"Periodic function" Q184743
+"Dirac comb" Q385599
+"Fourier transform" Q6520159
+"Inverse Fourier transform" Q3984053
+"Fourier-Laplace transform" Q199691
+"Laplace equations" Q339444
+Conditioning (probability) Q5159291
+"LU decomposition" Q833089
+"Singular value decomposition" Q420904
+"Brute force method" Q9299950
+"Bisection method" Q866300
+"Rate of convergence" Q1783502
+"Rectangle method" Q1156903
+"Monte-Carlo method" Q232207
+"Rate of convergence" Q1783502
+"Cauchy's problem" Q1412436
+"Consistency" Q1319773
+Stability (mathematics) Q1756677
+Stability (probability) Q7595717
+Convergence (mathematics) Q1211057
+Order (mathematics) Q1820515
+Order (graph theory) Q141488
+Order (group theory) Q589491
+Order (ring theory) Q1431456
+"Discrete Fourier transform" Q2878
+"Fast Fourier transform" Q623950
