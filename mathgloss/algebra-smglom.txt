@@ -1,0 +1,123 @@
+%column 1 stex=https://stexmmt.mathhub.info/:sTeX Algebra/mod
+%column 2 Wikidata
+"stex:Boolean algebra" Q173183
+"stex:Affine algebraic curve" Q266237
+"stex:Affine algebraic variety" Q3554813
+"stex:Algebraic" Q2836021
+"stex:Algebraically closed field" Q1047547
+"stex:Algebraic closure" Q428290
+"stex:Algebraic curve" Q266237
+"stex:Algebraic extension" Q550791
+"stex:Algebraic group" Q1695400
+"stex:Algebraic variety" Q648995
+"stex:Ambient space" Q3888851
+"stex:Archimedean property" Q634579
+"stex:Associative" Q177251
+"stex:Band (mathematics)" Q4177774
+"stex:Bounded lattice" Q595364
+"stex:Cancellative magma" MISSING
+"stex:Centralizer (ring theory)" Q190629
+"stex:C-group" Q5005940
+"stex:Class number (group theory)" Q1353233
+"stex:Closure property" Q4720939
+"stex:Commutative" Q165474
+"stex:Commutative monoid" Q208237
+"stex:Commutative ring" Q858656
+"stex:Commutator (group theory)" Q2989763
+"stex:Complemented lattice" Q5156434
+"stex:Conjugacy class" Q1353233
+"stex:Conjugation (mathematics)" Q250417
+"stex:Conjugation (group theory)" Q1353233
+"stex:Coset" Q751969
+"stex:Coxeter group" Q7874246
+"stex:Cyclic group" Q245462
+"stex:Distributive lattice" Q2363730
+"stex:Div group" MISSING
+"stex:Euclidean domain" Q867345
+"stex:Euclidean function" Q867345
+"stex:Extension degree" MISSING
+"stex:Field (mathematics)" Q190109
+"stex:Free group" Q431078
+"stex:Function zero" MISSING
+"stex:Galois extension" Q2020004
+"stex:Galois group" Q730384
+"stex:General linear group" Q524607
+"stex:Generated subring" MISSING
+"stex:Generating set group" MISSING
+"stex:Group homomorphism" Q868169
+"stex:Group order" Q589491
+"stex:Group (mathematics)" Q83478
+"stex:Homogeneous polynomial" Q1474074
+"stex:Homogenization (mathematics)" Q4812185
+"stex:Ideal (mathematics)" Q224884
+"stex:Ideal (order theory)" Q1656686
+"stex:Ideal (ring theory)" Q44649
+"stex:Ideal (set theory)" Q5987925
+"stex:Idempotent (ring theory)" Q2243424
+"stex:Independence system" Q1326518
+"stex:Integral domain" Q628792
+"stex:Inverse (mathematics)" Q224353
+"stex:Inverse (ring theory)" Q338057
+"stex:Irreducible polynomial" Q1476663
+"stex:Lattice (mathematics)" Q2754968
+"stex:Lattice (group theory)" Q6497088
+"stex:Lattice (order theory)" Q595364
+"stex:Left unital" MISSING
+"stex:Loop (mathematics)" Q1503423
+"stex:Loop (topology)" Q4558786
+"stex:Loop (graph theory)" Q512604
+"stex:Magma homomorphism" Q679903
+"stex:Magma (mathematics)" Q679903
+"stex:Matroid" Q898572
+"stex:Minimal polynomial (linear algebra)" Q1163608
+"stex:Minimal polynomial (field theory)" Q2242730
+"stex:Monoid homomorphism" Q208237
+"stex:Monoid power" MISSING
+"stex:Monoid (category theory)" Q2785361
+"stex:Monster group" Q392663
+"stex:Moufang loop" Q6918890
+"stex:MV-Algebra" MISSING
+"stex:Normal subgroup" Q743179
+"stex:Normal extension" Q2331395
+"stex:Normalizer" Q190629
+"stex:Ordered ring" Q3782642
+"stex:Period (mathematics)" Q184743
+"stex:Permutation group" Q1412905
+"stex:Polynomial equation" Q50698
+"stex:Polynomial function" Q43260
+"stex:Polynomial" Q43260
+"stex:Polynomial ring" Q1455652
+"stex:Prime element" Q240651
+"stex:Prime ideal comm" MISSING
+"stex:Prime ideal" Q863912
+"stex:Principal ideal domain" Q1143969
+"stex:Profinite group" Q1428923
+"stex:Projective algebraic curve" MISSING
+"stex:Projective algebraic variety" Q3554818
+"stex:Projective general linear group" Q2997419
+"stex:Quasigroup" Q1503423
+"stex:Quotient group" Q1138961
+"stex:Right unital" MISSING
+"stex:Ring divisor" MISSING
+"stex:Ring (mathematics)" Q161172
+"stex:Ring2" MISSING
+"stex:Ring adjunction" MISSING
+"stex:Ringoid" MISSING
+"stex:Root (mathematics)" Q351030
+"stex:Root (graph theory)" Q272735
+"stex:Semigroup (mathematics)" Q207348
+"stex:Semilattice" Q834585
+"stex:Semiring" Q1333055
+"stex:Separable extension" Q2264756
+"stex:Separable polynomial" Q2530089
+"stex:Simple group" Q571124
+"stex:Special linear group" Q2140900
+"stex:Splitting field" Q1996100
+"stex:Subfield (mathematics)" Q577835
+"stex:Subgroup (mathematics)" Q466109
+"stex:Subring" Q929536
+"stex:Symmetric group" Q849512
+"stex:Trivial group" Q568687
+"stex:Unique factorization domain" Q1052579
+"stex:Unital" Q7887168
+"stex:Zero divisor" Q828111
