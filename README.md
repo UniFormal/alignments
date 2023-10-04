@@ -5,3 +5,5 @@ Upload alignment files in the following format:
 * one text file per alignment set
 * one line per concept
 * whitespace-separated list of identifiers in each line (quoted if they contain whitespace)
+
+The files concepts-lean.txt, concepts-nlab.txt, and concepts.txt have been copied from the directory mathgloss, so far.
