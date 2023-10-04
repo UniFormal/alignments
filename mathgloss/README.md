@@ -4,3 +4,6 @@ https://github.com/MathGloss
 presented at CICM 2023.
 
 These alignments use WikiData identifiers (Qxxxx) as targets of linguistic mappings.
+
+The file algebra-smglom.txt simply maps terms from sTex into WikiData concepts, using   
+Jan-Christoph Klie's library "wikimapper", https://github.com/jcklie/wikimapper. 
