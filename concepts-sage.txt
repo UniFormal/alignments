@@ -1,0 +1,327 @@
+%column 1: human-friendly name, in quotes
+%column 2: python identifier for the category
+%column 3: Wikidata id of the wikipedia page
+%column 4: Wikipedia page (if close fuzzy match with one of the Math wikipedia pages as queried with Tom's select)
+%column 5: fuzzy match score: number of characters that did not match
+"objects" sage.categories.objects.Objects   
+"sets with partial maps" sage.categories.sets_with_partial_maps.SetsWithPartialMaps   
+"sets" sage.categories.sets_cat.Sets Q36161 Set_(mathematics) 1.0
+"sets with grading" sage.categories.sets_with_grading.SetsWithGrading   
+"magmas" sage.categories.magmas.Magmas   
+"additive magmas" sage.categories.additive_magmas.AdditiveMagmas   
+"magmas and additive magmas" sage.categories.magmas_and_additive_magmas.MagmasAndAdditiveMagmas   
+"distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas   
+"additive semigroups" sage.categories.additive_semigroups.AdditiveSemigroups   
+"additive associative distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas.AdditiveAssociative   
+"additive commutative additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveCommutative   
+"commutative additive semigroups" sage.categories.commutative_additive_semigroups.CommutativeAdditiveSemigroups   
+"additive commutative additive associative distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas.AdditiveAssociative.AdditiveCommutative   
+"additive unital additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital   
+"additive monoids" sage.categories.additive_monoids.AdditiveMonoids   
+"commutative additive monoids" sage.categories.commutative_additive_monoids.CommutativeAdditiveMonoids   
+"additive commutative additive associative additive unital distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas.AdditiveAssociative.AdditiveCommutative.AdditiveUnital   
+"semigroups" sage.categories.semigroups.Semigroups   
+"associative additive commutative additive associative additive unital distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas.AdditiveAssociative.AdditiveCommutative.AdditiveUnital.Associative   
+"additive inverse additive unital additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.AdditiveInverse   
+"additive groups" sage.categories.additive_groups.AdditiveGroups   
+"commutative additive groups" sage.categories.commutative_additive_groups.CommutativeAdditiveGroups   
+"rngs" sage.categories.rngs.Rngs   
+"unital magmas" sage.categories.magmas.Magmas.Unital   
+"monoids" sage.categories.monoids.Monoids   
+"semirings" sage.categories.semirings.Semirings   
+"rings" sage.categories.rings.Rings Q17097924 G-ring 3.0
+"domains" sage.categories.domains.Domains Q199006 Codomain 3.0
+"commutative magmas" sage.categories.magmas.Magmas.Commutative   
+"commutative monoids" sage.categories.monoids.Monoids.Commutative   
+"commutative rings" sage.categories.commutative_rings.CommutativeRings   
+"integral domains" sage.categories.integral_domains.IntegralDomains   
+"gcd domains" sage.categories.gcd_domains.GcdDomains   
+"unique factorization domains" sage.categories.unique_factorization_domains.UniqueFactorizationDomains   
+"principal ideal domains" sage.categories.principal_ideal_domains.PrincipalIdealDomains   
+"euclidean domains" sage.categories.euclidean_domains.EuclideanDomains   
+"division rings" sage.categories.division_rings.DivisionRings   
+"fields" sage.categories.fields.Fields   
+"finite sets" sage.categories.finite_sets.FiniteSets   
+"finite semigroups" sage.categories.finite_semigroups.FiniteSemigroups   
+"finite monoids" sage.categories.finite_monoids.FiniteMonoids   
+"finite additive groups" sage.categories.additive_groups.AdditiveGroups.Finite   
+"finite commutative rings" sage.categories.commutative_rings.CommutativeRings.Finite   
+"enumerated sets" sage.categories.enumerated_sets.EnumeratedSets   
+"finite enumerated sets" sage.categories.finite_enumerated_sets.FiniteEnumeratedSets   
+"finite enumerated fields" sage.categories.finite_fields.FiniteFields   
+"left modules" sage.categories.left_modules.LeftModules   
+"right modules" sage.categories.right_modules.RightModules   
+"bimodules" sage.categories.bimodules.Bimodules   
+"modules" sage.categories.modules.Modules   
+"magmatic algebras" sage.categories.magmatic_algebras.MagmaticAlgebras   
+"associative algebras" sage.categories.associative_algebras.AssociativeAlgebras   
+"unital algebras" sage.categories.unital_algebras.UnitalAlgebras   
+"algebras" sage.categories.algebras.Algebras   
+"modules with basis" sage.categories.modules_with_basis.ModulesWithBasis   
+"magmatic algebras with basis" sage.categories.magmatic_algebras.MagmaticAlgebras.WithBasis   
+"unital algebras with basis" sage.categories.unital_algebras.UnitalAlgebras.WithBasis   
+"algebras with basis" sage.categories.algebras_with_basis.AlgebrasWithBasis   
+"filtered modules" sage.categories.filtered_modules.FilteredModules   
+"filtered algebras" sage.categories.filtered_algebras.FilteredAlgebras   
+"filtered modules with basis" sage.categories.filtered_modules_with_basis.FilteredModulesWithBasis   
+"filtered algebras with basis" sage.categories.filtered_algebras_with_basis.FilteredAlgebrasWithBasis   
+"graded modules" sage.categories.graded_modules.GradedModules   
+"graded algebras" sage.categories.graded_algebras.GradedAlgebras   
+"graded modules with basis" sage.categories.graded_modules_with_basis.GradedModulesWithBasis   
+"graded algebras with basis" sage.categories.graded_algebras_with_basis.GradedAlgebrasWithBasis   
+"posets" sage.categories.posets.Posets Q36161 Set_(mathematics) 3.0
+"coalgebras" sage.categories.coalgebras.Coalgebras   
+"bialgebras" sage.categories.bialgebras.Bialgebras   
+"hopf algebras" sage.categories.hopf_algebras.HopfAlgebras Q1627597 Hopf_algebra 1.0
+"coalgebras with basis" sage.categories.coalgebras_with_basis.CoalgebrasWithBasis   
+"bialgebras with basis" sage.categories.bialgebras_with_basis.BialgebrasWithBasis   
+"hopf algebras with basis" sage.categories.hopf_algebras_with_basis.HopfAlgebrasWithBasis   
+"finite dimensional modules" sage.categories.modules.Modules.FiniteDimensional   
+"finite dimensional modules with basis" sage.categories.finite_dimensional_modules_with_basis.FiniteDimensionalModulesWithBasis   
+"finite dimensional magmatic algebras with basis" sage.categories.magmatic_algebras.MagmaticAlgebras.WithBasis.FiniteDimensional   
+"finite dimensional algebras with basis" sage.categories.finite_dimensional_algebras_with_basis.FiniteDimensionalAlgebrasWithBasis   
+"finite dimensional hopf algebras with basis" sage.categories.finite_dimensional_hopf_algebras_with_basis.FiniteDimensionalHopfAlgebrasWithBasis   
+"inverse unital magmas" sage.categories.magmas.Magmas.Unital.Inverse   
+"groups" sage.categories.groups.Groups   
+"finite groups" sage.categories.finite_groups.FiniteGroups   
+"vector spaces" sage.categories.vector_spaces.VectorSpaces   
+"elements of Rational Field" sage.categories.category_types.Elements   
+"commutative algebras" sage.categories.commutative_algebras.CommutativeAlgebras   
+"crystals" sage.categories.crystals.Crystals   
+"regular crystals" sage.categories.regular_crystals.RegularCrystals   
+"finitely generated magmas" sage.categories.finitely_generated_magmas.FinitelyGeneratedMagmas   
+"finitely generated semigroups" sage.categories.finitely_generated_semigroups.FinitelyGeneratedSemigroups   
+"finitely generated enumerated groups" sage.categories.category.JoinCategory   
+"complex reflection or generalized coxeter groups" sage.categories.complex_reflection_or_generalized_coxeter_groups.ComplexReflectionOrGeneralizedCoxeterGroups   
+"generalized coxeter groups" sage.categories.generalized_coxeter_groups.GeneralizedCoxeterGroups   
+"coxeter groups" sage.categories.coxeter_groups.CoxeterGroups Q7874246 Coxeter_group 1.0
+"Weyl groups" sage.categories.weyl_groups.WeylGroups Q768074 Weyl_group 1.0
+"lattice posets" sage.categories.lattice_posets.LatticePosets   
+"finite posets" sage.categories.finite_posets.FinitePosets   
+"finite lattice posets" sage.categories.finite_lattice_posets.FiniteLatticePosets   
+"partially ordered monoids" sage.categories.partially_ordered_monoids.PartiallyOrderedMonoids   
+"highest weight crystals" sage.categories.highest_weight_crystals.HighestWeightCrystals   
+"permutation groups" sage.categories.permutation_groups.PermutationGroups   
+"finite finitely generated semigroups" sage.categories.finitely_generated_semigroups.FinitelyGeneratedSemigroups.Finite   
+"finite enumerated permutation groups" sage.categories.finite_permutation_groups.FinitePermutationGroups   
+"filtered coalgebras" sage.categories.coalgebras.Coalgebras.Filtered   
+"graded coalgebras" sage.categories.graded_coalgebras.GradedCoalgebras   
+"filtered coalgebras with basis" sage.categories.coalgebras_with_basis.CoalgebrasWithBasis.Filtered   
+"filtered hopf algebras with basis" sage.categories.filtered_hopf_algebras_with_basis.FilteredHopfAlgebrasWithBasis   
+"graded coalgebras with basis" sage.categories.graded_coalgebras_with_basis.GradedCoalgebrasWithBasis   
+"graded hopf algebras with basis" sage.categories.graded_hopf_algebras_with_basis.GradedHopfAlgebrasWithBasis   
+"finite crystals" sage.categories.finite_crystals.FiniteCrystals   
+"classical crystals" sage.categories.classical_crystals.ClassicalCrystals   
+"algebra modules" sage.categories.algebra_modules.AlgebraModules   
+"algebra ideals" sage.categories.algebra_ideals.AlgebraIdeals   
+"G-sets for Symmetric group of order 8! as a permutation group" sage.categories.g_sets.GSets   
+"pointed sets" sage.categories.pointed_sets.PointedSets   
+"quotient fields" sage.categories.quotient_fields.QuotientFields   
+"Lie algebras" sage.categories.lie_algebras.LieAlgebras   
+"affine weyl groups" sage.categories.affine_weyl_groups.AffineWeylGroups   
+"discrete valuation fields" sage.categories.discrete_valuation.DiscreteValuationFields   
+"complete discrete valuation fields" sage.categories.complete_discrete_valuation.CompleteDiscreteValuationFields   
+"discrete valuation rings" sage.categories.discrete_valuation.DiscreteValuationRings   
+"complete discrete valuation rings" sage.categories.complete_discrete_valuation.CompleteDiscreteValuationRings   
+"ring ideals" sage.categories.ring_ideals.RingIdeals   
+"matrix algebras" sage.categories.matrix_algebras.MatrixAlgebras   
+"schemes" sage.categories.schemes.Schemes   
+"complex reflection groups" sage.categories.complex_reflection_groups.ComplexReflectionGroups   
+"finite complex reflection groups" sage.categories.finite_complex_reflection_groups.FiniteComplexReflectionGroups   
+"well generated finite complex reflection groups" sage.categories.finite_complex_reflection_groups.FiniteComplexReflectionGroups.WellGenerated   
+"finite generalized coxeter groups" sage.categories.generalized_coxeter_groups.GeneralizedCoxeterGroups.Finite   
+"finite coxeter groups" sage.categories.finite_coxeter_groups.FiniteCoxeterGroups   
+"finite Weyl groups" sage.categories.finite_weyl_groups.FiniteWeylGroups   
+"modular abelian varieties" sage.categories.modular_abelian_varieties.ModularAbelianVarieties   
+"set algebras" sage.categories.sets_cat.Sets.Algebras   
+"magma algebras" sage.categories.magmas.Magmas.Algebras   
+"semigroup algebras" sage.categories.semigroups.Semigroups.Algebras   
+"unital magma algebras" sage.categories.magmas.Magmas.Unital.Algebras   
+"monoid algebras" sage.categories.monoids.Monoids.Algebras   
+"group algebras" sage.categories.group_algebras.GroupAlgebras   
+"commutative algebra ideals" sage.categories.commutative_algebra_ideals.CommutativeAlgebraIdeals   
+"vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis   
+"Hecke modules" sage.categories.hecke_modules.HeckeModules   
+"number fields" sage.categories.number_fields.NumberFields   
+"infinite sets" sage.categories.sets_cat.Sets.Infinite   
+"infinite enumerated sets" sage.categories.infinite_enumerated_sets.InfiniteEnumeratedSets   
+"function fields" sage.categories.function_fields.FunctionFields   
+"commutative ring ideals" sage.categories.commutative_ring_ideals.CommutativeRingIdeals   
+"groupoid" sage.categories.groupoid.Groupoid   
+"simplicial complexes" sage.categories.simplicial_complexes.SimplicialComplexes   
+"chain complexes" sage.categories.chain_complexes.ChainComplexes   
+"Cartesian products of sets" sage.categories.sets_cat.Sets.CartesianProducts   
+"Cartesian products of magmas" sage.categories.magmas.Magmas.CartesianProducts   
+"Cartesian products of additive magmas" sage.categories.additive_magmas.AdditiveMagmas.CartesianProducts   
+"Cartesian products of magmas and additive magmas" sage.categories.magmas_and_additive_magmas.MagmasAndAdditiveMagmas.CartesianProducts   
+"Cartesian products of distributive magmas and additive magmas" sage.categories.distributive_magmas_and_additive_magmas.DistributiveMagmasAndAdditiveMagmas.CartesianProducts   
+"Cartesian products of semigroups" sage.categories.semigroups.Semigroups.CartesianProducts   
+"Cartesian products of unital magmas" sage.categories.magmas.Magmas.Unital.CartesianProducts   
+"Cartesian products of monoids" sage.categories.monoids.Monoids.CartesianProducts   
+"Cartesian products of commutative magmas" sage.categories.magmas.Magmas.Commutative.CartesianProducts   
+"Cartesian products of additive unital additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.CartesianProducts   
+"Cartesian products of additive inverse additive unital additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.AdditiveInverse.CartesianProducts   
+"Cartesian products of additive commutative additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveCommutative.CartesianProducts   
+"Cartesian products of additive semigroups" sage.categories.additive_semigroups.AdditiveSemigroups.CartesianProducts   
+"Cartesian products of commutative additive groups" sage.categories.commutative_additive_groups.CommutativeAdditiveGroups.CartesianProducts   
+"Cartesian products of commutative rings" sage.categories.commutative_rings.CommutativeRings.CartesianProducts   
+"signed tensor products of graded algebras" sage.categories.graded_algebras.GradedAlgebras.SignedTensorProducts   
+"signed tensor products of graded algebras with basis" sage.categories.graded_algebras_with_basis.GradedAlgebrasWithBasis.SignedTensorProducts   
+"homsets" sage.categories.homsets.Homsets   
+"homsets of right modules" sage.categories.homsets.HomsetsOf   
+"homsets of modules" sage.categories.modules.Modules.Homsets   
+"homsets of modules with basis" sage.categories.modules_with_basis.ModulesWithBasis.Homsets   
+"Cartesian products of modules" sage.categories.modules.Modules.CartesianProducts   
+"Cartesian products of modules with basis" sage.categories.modules_with_basis.ModulesWithBasis.CartesianProducts   
+"tensor products of modules" sage.categories.modules.Modules.TensorProducts   
+"tensor products of modules with basis" sage.categories.modules_with_basis.ModulesWithBasis.TensorProducts   
+"duals of modules with basis" sage.categories.modules_with_basis.ModulesWithBasis.DualObjects   
+"GAP objects" categories.objects.GAP   
+"GAP sets" sage.categories.sets_cat.Sets.GAP   
+"GAP additive magmas" sage.categories.additive_magmas.AdditiveMagmas.GAP   
+"GAP additive semigroups" sage.categories.additive_semigroups.AdditiveSemigroups.GAP   
+"additive unital GAP additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.GAP   
+"GAP additive monoids" sage.categories.additive_monoids.AdditiveMonoids.GAP   
+"GAP additive groups" sage.categories.additive_groups.AdditiveGroups.GAP   
+"additive commutative GAP additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveCommutative.GAP   
+"GAP commutative additive semigroups" sage.categories.commutative_additive_semigroups.CommutativeAdditiveSemigroups.GAP   
+"GAP modules" sage.categories.modules.Modules.GAP   
+"GAP modules with basis" sage.categories.modules_with_basis.ModulesWithBasis.GAP   
+"finite dimensional cellular algebras with basis" sage.categories.finite_dimensional_algebras_with_basis.FiniteDimensionalAlgebrasWithBasis.Cellular   
+"finite set algebras" sage.categories.finite_sets.FiniteSets.Algebras   
+"finite group algebras" sage.categories.finite_groups.FiniteGroups.Algebras   
+"GAP magmas" sage.categories.magmas.Magmas.GAP   
+"GAP semigroups" sage.categories.semigroups.Semigroups.GAP   
+"unital GAP magmas" sage.categories.magmas.Magmas.Unital.GAP   
+"GAP monoids" sage.categories.monoids.Monoids.GAP   
+"finite GAP sets" sage.categories.finite_sets.FiniteSets.GAP   
+"finite GAP semigroups" sage.categories.finite_semigroups.FiniteSemigroups.GAP   
+"finite GAP monoids" sage.categories.finite_monoids.FiniteMonoids.GAP   
+"inverse unital GAP magmas" sage.categories.magmas.Magmas.Unital.Inverse.GAP   
+"GAP groups" sage.categories.groups.Groups.GAP   
+"finite GAP groups" sage.categories.finite_groups.FiniteGroups.GAP   
+"finite dimensional vector spaces" sage.categories.vector_spaces.VectorSpaces.FiniteDimensional   
+"duals of vector spaces" sage.categories.vector_spaces.VectorSpaces.DualObjects   
+"Cartesian products of vector spaces" sage.categories.vector_spaces.VectorSpaces.CartesianProducts   
+"tensor products of vector spaces" sage.categories.vector_spaces.VectorSpaces.TensorProducts   
+"filtered vector spaces" sage.categories.vector_spaces.VectorSpaces.Filtered   
+"graded vector spaces" sage.categories.vector_spaces.VectorSpaces.Graded   
+"tensor products of algebras" sage.categories.algebras.Algebras.TensorProducts   
+"tensor products of commutative algebras" sage.categories.commutative_algebras.CommutativeAlgebras.TensorProducts   
+"tensor products of crystals" sage.categories.crystals.Crystals.TensorProducts   
+"tensor products of regular crystals" sage.categories.regular_crystals.RegularCrystals.TensorProducts   
+"subquotients of sets" sage.categories.sets_cat.Sets.Subquotients   
+"quotients of sets" sage.categories.sets_cat.Sets.Quotients   
+"quotients of graded modules with basis" sage.categories.graded_modules_with_basis.GradedModulesWithBasis.Quotients   
+"tensor products of highest weight crystals" sage.categories.highest_weight_crystals.HighestWeightCrystals.TensorProducts   
+"signed tensor products of graded coalgebras" sage.categories.graded_coalgebras.GradedCoalgebras.SignedTensorProducts   
+"graded hopf algebras with basis" sage.categories.graded_hopf_algebras_with_basis.GradedHopfAlgebrasWithBasis.WithRealizations   
+"filtered connected modules" sage.categories.filtered_modules.FilteredModules.Connected   
+"filtered connected hopf algebras with basis" sage.categories.filtered_hopf_algebras_with_basis.FilteredHopfAlgebrasWithBasis.Connected   
+"graded connected hopf algebras with basis" sage.categories.graded_hopf_algebras_with_basis.GradedHopfAlgebrasWithBasis.Connected   
+"tensor products of finite crystals" sage.categories.finite_crystals.FiniteCrystals.TensorProducts   
+"tensor products of classical crystals" sage.categories.classical_crystals.ClassicalCrystals.TensorProducts   
+"super modules" sage.categories.super_modules.SuperModules   
+"super modules with basis" sage.categories.super_modules_with_basis.SuperModulesWithBasis   
+"super coalgebras" sage.categories.coalgebras.Coalgebras.Super   
+"super coalgebras with basis" sage.categories.coalgebras_with_basis.CoalgebrasWithBasis.Super   
+"finitely presented modules" sage.categories.modules.Modules.FinitelyPresented   
+"commutative groups" sage.categories.groups.Groups.Commutative   
+"Cartesian products of inverse unital magmas" sage.categories.magmas.Magmas.Unital.Inverse.CartesianProducts   
+"Cartesian products of groups" sage.categories.groups.Groups.CartesianProducts   
+"topological spaces" sage.categories.topological_spaces.TopologicalSpaces Q179899 Topological_space 1.0
+"topological groups" sage.categories.groups.Groups.Topological   
+"super algebras" sage.categories.super_algebras.SuperAlgebras   
+"super bialgebras" sage.categories.bialgebras.Bialgebras.Super   
+"super hopf algebras" sage.categories.hopf_algebras.HopfAlgebras.Super   
+"tensor products of coalgebras" sage.categories.coalgebras.Coalgebras.TensorProducts   
+"tensor products of hopf algebras" sage.categories.hopf_algebras.HopfAlgebras.TensorProducts   
+"realizations of sets" sage.categories.sets_cat.Sets.Realizations   
+"realizations of magmas" sage.categories.magmas.Magmas.Realizations   
+"realizations of unital magmas" sage.categories.magmas.Magmas.Unital.Realizations   
+"realizations of coalgebras" sage.categories.coalgebras.Coalgebras.Realizations   
+"realizations of hopf algebras" sage.categories.hopf_algebras.HopfAlgebras.Realizations   
+"J-trivial magmas" sage.categories.magmas.Magmas.JTrivial   
+"subquotients of magmas" sage.categories.magmas.Magmas.Subquotients   
+"homsets of additive magmas" sage.categories.additive_magmas.AdditiveMagmas.Homsets   
+"additive magma algebras" sage.categories.additive_magmas.AdditiveMagmas.Algebras   
+"finite dimensional Lie algebras" sage.categories.lie_algebras.LieAlgebras.FiniteDimensional   
+"nilpotent Lie algebras" sage.categories.lie_algebras.LieAlgebras.Nilpotent   
+"GAP Lie algebras" sage_annotations.categories.lie_algebras.GAP   
+"additive semigroup algebras" sage.categories.additive_semigroups.AdditiveSemigroups.Algebras   
+"additive unital additive magma algebras" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.Algebras   
+"additive group algebras" sage.categories.additive_groups.AdditiveGroups.Algebras   
+"additive commutative additive magma algebras" sage.categories.additive_magmas.AdditiveMagmas.AdditiveCommutative.Algebras   
+"commutative additive group algebras" sage.categories.commutative_additive_groups.CommutativeAdditiveGroups.Algebras   
+"cocommutative coalgebras" sage.categories.coalgebras.Coalgebras.Cocommutative   
+"duals of coalgebras" sage.categories.coalgebras.Coalgebras.DualObjects   
+"facade sets" sage.categories.facade_sets.FacadeSets   
+"sets with realizations" sage.categories.sets_cat.Sets.WithRealizations   
+"additive unital additive magmas with realizations" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.WithRealizations   
+"coalgebras" sage.categories.coalgebras.Coalgebras.WithRealizations   
+"monoids with realizations" sage.categories.monoids.Monoids.WithRealizations   
+"subquotients of semigroups" sage.categories.semigroups.Semigroups.Subquotients   
+"subquotients of monoids" sage.categories.monoids.Monoids.Subquotients   
+"commutative GAP magmas" sage.categories.magmas.Magmas.Commutative.GAP   
+"GAP fields" sage.categories.fields.Fields.GAP   
+"Cartesian products of enumerated sets" sage.categories.enumerated_sets.EnumeratedSets.CartesianProducts   
+"enumerated GAP sets" sage.categories.enumerated_sets.EnumeratedSets.GAP   
+"quotients of semigroups" sage.categories.semigroups.Semigroups.Quotients   
+"homsets of modular abelian varieties" sage.categories.modular_abelian_varieties.ModularAbelianVarieties.Homsets   
+"tensor products of algebras with basis" sage.categories.algebras_with_basis.AlgebrasWithBasis.TensorProducts   
+"tensor products of hopf algebras with basis" sage.categories.hopf_algebras_with_basis.HopfAlgebrasWithBasis.TensorProducts   
+"Cartesian products of finite enumerated sets" sage.categories.finite_enumerated_sets.FiniteEnumeratedSets.CartesianProducts   
+"subquotients of finite sets" sage.categories.finite_sets.FiniteSets.Subquotients   
+"subobjects of sets" sage.categories.sets_cat.Sets.Subobjects   
+"isomorphic objects of sets" sage.categories.sets_cat.Sets.IsomorphicObjects   
+"isomorphic objects of finite enumerated sets" sage.categories.finite_enumerated_sets.FiniteEnumeratedSets.IsomorphicObjects   
+"finite enumerated GAP sets" sage.categories.finite_enumerated_sets.FiniteEnumeratedSets.GAP   
+"homsets of Hecke modules" sage.categories.hecke_modules.HeckeModules.Homsets   
+"metric spaces" sage.categories.metric_spaces.MetricSpaces   
+"quotients of algebras" sage.categories.algebras.Algebras.Quotients   
+"Cartesian products of unital algebras" sage.categories.unital_algebras.UnitalAlgebras.CartesianProducts   
+"Cartesian products of algebras" sage.categories.algebras.Algebras.CartesianProducts   
+"duals of algebras" sage.categories.algebras.Algebras.DualObjects   
+"tensor products of finite dimensional modules" sage.categories.modules.Modules.FiniteDimensional.TensorProducts   
+"tensor products of finite dimensional modules with basis" sage.categories.finite_dimensional_modules_with_basis.FiniteDimensionalModulesWithBasis.TensorProducts   
+"finite dimensional GAP modules with basis" sage.categories.finite_dimensional_modules_with_basis.FiniteDimensionalModulesWithBasis.GAP   
+"finite simplicial complexes" sage.categories.simplicial_complexes.SimplicialComplexes.Finite   
+"connected simplicial complexes" sage.categories.simplicial_complexes.SimplicialComplexes.Connected   
+"Cartesian products of algebras with basis" sage.categories.algebras_with_basis.AlgebrasWithBasis.CartesianProducts   
+"facade finite sets" sage_annotations.categories.sets_cat.Facade   
+"signed tensor products of graded coalgebras with basis" sage.categories.graded_coalgebras_with_basis.GradedCoalgebrasWithBasis.SignedTensorProducts   
+"subobjects of filtered modules with basis" sage.categories.filtered_modules_with_basis.FilteredModulesWithBasis.Subobjects   
+"tensor products of finite dimensional cellular algebras with basis" sage.categories.finite_dimensional_algebras_with_basis.FiniteDimensionalAlgebrasWithBasis.Cellular.TensorProducts   
+"homsets of additive semigroups" sage.categories.additive_semigroups.AdditiveSemigroups.Homsets   
+"Cartesian products of vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.CartesianProducts   
+"tensor products of vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.TensorProducts   
+"finite dimensional vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.FiniteDimensional   
+"filtered vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.Filtered   
+"graded vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.Graded   
+"tensor products of finite dimensional vector spaces" sage.categories.vector_spaces.VectorSpaces.FiniteDimensional.TensorProducts   
+"homsets of additive unital additive magmas" sage.categories.additive_magmas.AdditiveMagmas.AdditiveUnital.Homsets   
+"homsets of additive monoids" sage.categories.additive_monoids.AdditiveMonoids.Homsets   
+"filtered hopf algebras with basis" sage.categories.filtered_hopf_algebras_with_basis.FilteredHopfAlgebrasWithBasis.WithRealizations   
+"endsets" sage.categories.homsets.Homsets.Endset   
+"endsets of modules" sage.categories.modules.Modules.Homsets.Endset   
+"commutative magma algebras" sage.categories.magmas.Magmas.Commutative.Algebras   
+"supercocommutative super coalgebras" sage.categories.coalgebras.Coalgebras.Super.Supercocommutative   
+"endsets of modular abelian varieties" sage.categories.modular_abelian_varieties.ModularAbelianVarieties.Homsets.Endset   
+"infinite GAP sets" sage.categories.sets_cat.Sets.Infinite.GAP   
+"Cartesian products of topological spaces" sage.categories.topological_spaces.TopologicalSpaces.CartesianProducts   
+"connected topological spaces" sage.categories.topological_spaces.TopologicalSpaces.Connected   
+"compact topological spaces" sage.categories.topological_spaces.TopologicalSpaces.Compact   
+"homsets of metric spaces" sage.categories.metric_spaces.MetricSpaces.Homsets   
+"metric spaces with realizations" sage.categories.metric_spaces.MetricSpaces.WithRealizations   
+"Cartesian products of metric spaces" sage.categories.metric_spaces.MetricSpaces.CartesianProducts   
+"complete metric spaces" sage.categories.metric_spaces.MetricSpaces.Complete   
+"signed tensor products of super algebras" sage.categories.super_algebras.SuperAlgebras.SignedTensorProducts   
+"facade finite GAP sets" sage_annotations.categories.sets_cat.Facade.GAP   
+"finite additive group algebras" sage.categories.additive_groups.AdditiveGroups.Finite.Algebras   
+"tensor products of finite dimensional vector spaces with basis" sage.categories.vector_spaces.VectorSpaces.WithBasis.FiniteDimensional.TensorProducts   
+"irreducible complex reflection or generalized coxeter groups" sage.categories.complex_reflection_or_generalized_coxeter_groups.ComplexReflectionOrGeneralizedCoxeterGroups.Irreducible   
+"Cartesian products of connected topological spaces" sage.categories.topological_spaces.TopologicalSpaces.Connected.CartesianProducts   
+"Cartesian products of compact topological spaces" sage.categories.topological_spaces.TopologicalSpaces.Compact.CartesianProducts   
+"Cartesian products of complete metric spaces" sage.categories.metric_spaces.MetricSpaces.Complete.CartesianProducts   
+"finite irreducible complex reflection groups" sage.categories.finite_complex_reflection_groups.FiniteComplexReflectionGroups.Irreducible   
+"well generated finite irreducible complex reflection groups" sage.categories.finite_complex_reflection_groups.FiniteComplexReflectionGroups.WellGenerated.Irreducible   
