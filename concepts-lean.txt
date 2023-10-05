@@ -1,5 +1,5 @@
 %column 1: human-friendly name
-%column 2: lean=https://leanprover-community.github.io/mathlib_docs/
+%column 2: lean=https://leanprover-community.github.io/mathlib_docs/, originals at https://github.com/leanprover-community/mathlib4/tree/master/docs the alignments here were produced manually by Lucy Horowitz based on a now-outdated Lean3 version of Lean mathlib
 %column 3: Wikidata
 "Vector space" lean:algebra/module/basic.html#module Q125977
 "Vector subspace" lean:algebra/module/submodule/basic.html#subspace Q728435
